@@ -1,0 +1,3 @@
+[submodule "pegboard-peggrid"]
+	path = pegboard-peggrid
+	url = https://github.com/openscad-libs/pegboard-peggrid.git
